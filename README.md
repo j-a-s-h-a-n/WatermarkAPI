@@ -1,10 +1,5 @@
 # WatermarkAPI
 
-### This API uses the flask package.
-#
-
-
-
 #### API GETS a mandatory image and watermark. It can also GET an optional font and position of watermark. Otherwise defult values are set to Comic Sans and bottom left.
 #
 #####   'arial':'Arial Italic.ttf',
